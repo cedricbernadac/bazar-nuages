@@ -5,7 +5,7 @@ balloons on a floating market. **Ten days** to buy wisely, serve three
 customers a day, and fund the voyage to a new island.
 
 Play: `index.html` (fully self-contained, works offline) — also on
-GitHub Pages: <https://codex-lm.github.io/bazar-nuages/>
+GitHub Pages: <https://cedricbernadac.github.io/bazar-nuages/>
 
 ## Rules (summary)
 
